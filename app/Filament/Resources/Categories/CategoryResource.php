@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Filament\Resources\Categories;
+namespace App\Filament\Resources;
 
 use App\Filament\Resources\Categories\Pages\CreateCategory;
 use App\Filament\Resources\Categories\Pages\EditCategory;
